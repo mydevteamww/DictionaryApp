@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Method Draw Vector Editor",
+  "description": "Dictionary App",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Method Draw Vector Editor",
+  "name": "Dictionary App",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Method Draw Vector Editor",
+  "short_name": "Dictionary App",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -15,7 +15,7 @@
   "screenshots": [
     {
       "src": "images/screenshot1.png",
-      "sizes": "1919x1024",
+      "sizes": "1903x905",
       "type": "image/png"
     }
   ],
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Method Draw Vector Editor",
+      "name": "Dictionary App",
       "url": "",
       "description": ""
     }
